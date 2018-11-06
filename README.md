@@ -1,4 +1,4 @@
-# This project migrated to Telia-oss](https://github.com/telia-oss/appsync-resource)
+### This project migrated to [Telia-oss](https://github.com/telia-oss/appsync-resource)
 
 # AWS AppSync resource
 
