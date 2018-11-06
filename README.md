@@ -1,3 +1,5 @@
+# This project migrated to Telia-oss](https://github.com/telia-oss/appsync-resource)
+
 # AWS AppSync resource
 
 A Concourse resource to update AppSync schema. Written in Go.
